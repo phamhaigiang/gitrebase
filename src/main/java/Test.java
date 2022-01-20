@@ -12,7 +12,7 @@ public class Test {
         System.out.println("Line 8");
         System.out.println("Line 9");
         System.out.println("Line 10");
-        System.out.println("Rebase 5");
-        System.out.println("Rebase 5");
+        System.out.println("Rebase 30");
+        System.out.println("Rebase 30");
     }
 }
