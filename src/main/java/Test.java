@@ -11,5 +11,6 @@ public class Test {
         System.out.println("Line 8");
         System.out.println("Line 9");
         System.out.println("Line 10");
+        System.out.println("Rebase 2");
     }
 }
